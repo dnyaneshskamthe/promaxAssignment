@@ -1,0 +1,22 @@
+{
+    "patent": {
+        "iso_country_code": "US",
+        "number": "7185001",
+        "kind_code": "B1"
+    },
+    "biblographic_details": {
+        "priority_date": "2000-10-04",
+        "title": "Systems and methods for document searching and Organizing",
+        "abstract": "Systems and methods interactive document search, retrieval, categorization, and summarization are provided. A document organizer processor may analyze the content of documents, such as web pages and text documents, downloaded from a computer network, such as the Internet or an intranet, in response to a user's search query. After receiving a search query from a user, the processor may locate documents related to the query, parse words in the documents into a word set, filter out unnecessary words, group the documents into categories, provide labels for the categories, construct summaries of the documents in each category, determine if any additional words or phases are to be recommended, present the labels and summaries to the user, and enable the user to iteratively refine the search.",
+        "classfications": [
+            {
+                "class": "G06F16/345",
+                "description": "Summarisation for human users"
+            },
+            {
+                "class": "G06F16/3322",
+                "description": "Query formulation using system suggestions"
+            }
+        ]
+    }
+}

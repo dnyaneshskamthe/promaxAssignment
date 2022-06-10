@@ -1,0 +1,14 @@
+import React from 'react'
+
+const Overview = () => {
+  return (
+    <div className='overview'>
+      <h1>This is product Description</h1>
+        <p>amet amet sit elit ipsum sit adipisicing consectetur lorem elit ipsum elit adipisicing elit consectetur sit. lorem consectetur sit sit dolor adipisicing lorem amet sit lorem dolor elit ipsum consectetur ipsum lorem dolor elit lorem lorem consectetur. sit lorem elit adipisicing elit ipsum amet adipisicing adipisicing ipsum consectetur ipsum adipisicing adipisicing adipisicing lorem lorem consectetur adipisicing. adipisicing adipisicing elit ipsum lorem consectetur elit amet amet elit amet adipisicing lorem consectetur adipisicing consectetur lorem dolor amet adipisicing ipsum. amet consectetur consectetur amet ipsum dolor elit dolor sit ipsum lorem amet lorem dolor elit lorem consectetur amet elit sit. lorem amet lorem consectetur dolor adipisicing dolor sit amet consectetur amet elit consectetur sit ipsum sit elit dolor. lorem dolor consectetur elit elit consectetur elit consectetur lorem lorem dolor ipsum dolor lorem sit adipisicing sit.
+lorem dolor adipisicing adipisicing dolor<br/> lorem adipisicing amet adipisicing adipisicing amet amet elit consectetur dolor dolor sit. elit adipisicing consectetur adipisicing dolor dolor amet elit adipisicing elit ipsum dolor adipisicing sit adipisicing adipisicing elit elit dolor. consectetur amet dolor adipisicing elit lorem adipisicing adipisicing elit elit dolor amet consectetur elit elit sit elit sit consectetur. lorem sit dolor sit elit ipsum adipisicing elit sit ipsum ipsum amet ipsum lorem adipisicing amet ipsum elit adipisicing amet adipisicing. lorem ipsum adipisicing adipisicing amet dolor lorem dolor amet amet dolor dolor sit consectetur elit consectetur ipsum amet elit.
+dolor elit ipsum adipisicing consectetur ipsum amet consectetur amet dolor sit sit lorem sit sit adipisicing dolor ipsum. amet adipisicing dolor sit consectetur adipisicing ipsum lorem ipsum ipsum ipsum adipisicing amet elit consectetur adipisicing amet dolor. consectetur elit sit lorem sit lorem consectetur adipisicing consectetur dolor sit dolor consectetur lorem consectetur dolor dolor dolor consectetur sit. amet elit consectetur adipisicing ipsum dolor dolor ipsum elit elit adipisicing ipsum adipisicing lorem adipisicing amet dolor adipisicing lorem amet amet. ipsum consectetur elit consectetur consectetur ipsum sit lorem lorem dolor ipsum elit amet elit adipisicing ipsum dolor consectetur ipsum. elit ipsum amet adipisicing adipisicing elit dolor dolor elit amet ipsum amet adipisicing lorem adipisicing lorem dolor sit. elit lorem lorem sit ipsum adipisicing ipsum sit elit elit adipisicing ipsum amet dolor dolor dolor.</p>
+    </div>
+  )
+}
+
+export default Overview;
