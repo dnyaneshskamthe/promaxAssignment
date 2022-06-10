@@ -47,10 +47,10 @@ const Subheading = () => {
                 </div>
             </div>
             <div className='bottomlinks'>
-                <span className='componentLinks'><Link to='/overview'>Overview</Link></span>
-                <span className='componentLinks'> <Link to='/discussion'>Discussions</Link></span>
-                <span className='componentLinks'> <Link to='/references'>Known References</Link></span>
-                <span className='componentLinks'><Link to='/terms'>Legal Terms</Link></span>
+                <span ><Link className='componentLinks' to='/overview'>Overview</Link></span>
+                <span > <Link className='componentLinks' to='/discussion'>Discussions</Link></span>
+                <span > <Link className='componentLinks' to='/references'>Known References</Link></span>
+                <span ><Link className='componentLinks' to='/terms'>Legal Terms</Link></span>
             </div>
             
             

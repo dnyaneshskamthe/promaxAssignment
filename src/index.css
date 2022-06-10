@@ -99,7 +99,7 @@ body{
     border-radius: 0.5rem;
 }
 .bottomlinks{
-    text-decoration: none;
+    
     width:100%;
     display: flex;
     justify-content:flex-start ;
@@ -125,8 +125,14 @@ body{
 }
 .componentLinks{
     margin: 1rem;
+    margin-bottom: 1rem;
     text-decoration: none;
-    width:200px;
+    color: black;
+    border: 1px solid gray;
+    
+}
+Link{
+    text-decoration: none;
 }
 .terms{
     margin: auto;
